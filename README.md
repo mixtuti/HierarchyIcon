@@ -4,7 +4,9 @@
 ![画像](Image/HierarchyIcon.png)<br>
 アイコンをクリックで変更されます。<br>
 ![画像](Image/Inspector.png)<br>
-インスペクターの方もしっかりと変わります。
+インスペクターの方もしっかりと変わります。<br>
+[DrawComponentIconInHierarchy](https://github.com/mixtuti/DrawComponentIconInHierarchy/tree/main)という別のエディタ拡張も入れています。<br>
+このエディタ単体では、一番左端のみです。<br>
 
 ## TODOというかやりたいけど、できなかったこと
 デフォルトであるアイコンが消せずに残り続ける事。<br>
